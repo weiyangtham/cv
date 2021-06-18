@@ -3,35 +3,23 @@ academic_positions,TRUE,Postdoctoral Fellow,Harvard Business School,NA,2019,Pres
 education,TRUE,Ph.D. in Economics,"The Ohio State University, Columbus, OH",,2013,2019,1,NA,NA,NA,NA,NA
 education,TRUE,B.A. in Economics,"Rice University, Houston, TX",,2009,2013,1,NA,NA,NA,NA,NA
 research_experience,TRUE,Research Assistant,"Profs. Bruce Weinberg & David Blau, The Ohio State University",,2015,2019,1,NA,NA,NA,NA,NA
-research_experience,TRUE,Teaching Assistant,"The Ohio State University, Columbus, OH",,2014,2016,Principles of Microeconomics (Fall 2014),Principles of Macroeconomics (Fall 2016),NA,NA,NA,NA
 teaching_experience,TRUE,Independent Instructor,"The Ohio State University, Columbus, OH",,2015,2019,Economic Issues in the United States,,,,,
-research_experience,TRUE,Research Assistant,"Prof. Ricardo Paredes, P. Universidad Catolica de Chile",,2011,2014,1,NA,NA,NA,NA,NA
-teaching_experience,FALSE,Teaching Assistant,P. Universidad Catolica de Chile,,2007,2011,Applied Econometrics (2011),Industrial Organization (2010-2011),Introduction to Economics (2010),Calculus I (2007-2011),,NA
-research_experience,TRUE,Research Analyst,"Abdul Latif Jameel Poverty Action Lab (J-PAL), Santiago, Chile",,2012,2013/2014,1,NA,NA,NA,NA,NA
-research_experience,TRUE,External Consultant,"Inter-American Development Bank (IDB), Washington, DC",,2012,2012,1,NA,NA,NA,NA,NA
-workingpapers,TRUE,How Far is Too Far? Generalization of a Regression Discontinuity Design Away from the Cutoff,Job Market Paper,NA,NA,2020,1,NA,NA,NA,NA,NA
-publications,TRUE,All Things Equal? Heterogeneity in Policy Effectiveness against COVID-19 Spread in Chile,*World Development. Vol 137. 105208*,NA,NA,2021,1,NA,NA,NA,NA,NA
-publications,TRUE,Better Together? Social Networks in Truancy and the Targeting of Treatment,*Journal of Labor Economics. Vol 39 (1)*,NA,NA,2021,Co-authored with Peter Bergman,NA,NA,NA,NA,NA
-publications,TRUE,Building Representative Matched Samples with Multi-valued Treatments in Large Observational Studies,*Journal of Computational and Graphical Statistics. Vol 29 (4) pp 744-757*,NA,NA,2020,Co-authored with J. Vielma and J. Zubizarreta,NA,NA,NA,NA,NA
-workingpapers,TRUE,Biased Beliefs and the Dynamic Role of Information in College Choice,Randomized Controlled Trial in Chile,NA,NA,2021,Project with Claudia Allende,NA,NA,NA,NA,NA
-workingpapers,TRUE,Breastmilk and its effects in Bronchopulmonary Dysplasia and other major morbidities in Very Low Birthweight Infants,Working Paper,NA,NA,2019,"Co-authored with J. Tapia, J. Fabres, G. Marshall, P. Mena, M. Escalante, D.
-Sabatelli, N. Dinerstein, D. Masoli, and J.R. Zubizarreta",NA,NA,NA,NA,NA
-publications,TRUE,Design and Implementation of an Alternative Admission Program to Engineering: Talent and Inclusion," Studies of Higher Education (CSHE), 43(8) p.1454-1467",NA,NA,2018,"Co-authored with I. Hiliger, C. Gelmi, L. Cifuentes, and J. de la Llera",NA,NA,NA,NA,NA
-workingpapers,TRUE,Socioeconomic Diversity within Schools: The Impact of a Preferential Voucher Scheme in Chile,Working Paper,NA,NA,2014,LSE Master Dissertation,NA,NA,NA,NA,NA
-publications,TRUE,Incentives for studying teaching: The case of the vocational scholarship,"Estudios Publicos N 131, Centro de Estudios Publicos",NA,NA,2013,"Co-authored with F. Claro, R. Paredes, and T. Wilson",NA,NA,NA,NA,NA
-workingpapers,TRUE,"Rethinking Sequencing of Pregnancy, School Dropout and Marriage: An Analysis of DHS Data on Early Childbearing and Educational Trajectories in Six Latin American Countries","Report, Inter-American Development Bank",NA,NA,2012,"Co-authored with E. Naslund-Hadley, E. Vezza, and P. Giovagnoli",NA,NA,NA,NA,NA
-workingpapers,TRUE,Cognitive Abilities and Preschool Education in Chile,Working Paper,NA,NA,2012,PUC Master Dissertation,NA,NA,NA,NA,NA
-presentations,TRUE,All Things Equal? Heterogeneity in Policy Effectiveness against COVID-19 Spread in Chile,"Economics and COVID-19 Seminar. *Universidad Adolfo Ibanez*. Santiago, Chile",NA,NA,2020,1,NA,NA,NA,NA,NA
-presentations,TRUE,All Things Equal? Heterogeneity in Policy Effectiveness against COVID-19 Spread in Chile,"3rd Workshop of Applied Modelling for COVID-19 in Chile. *Mesa Social COVID-19*. Santiago, Chile",NA,NA,2020,1,NA,NA,NA,NA,NA
-presentations,TRUE,How Far is Too Far? Generalization of a Regression Discontinuity Design Away from the Cutoff,"Atlantic Causal Inference Conference. *Suspended due to COVID-19*. Austin, TX",NA,NA,2020,1,NA,NA,NA,NA,NA
-presentations,TRUE,Building Representative Matched Samples with Multivalued Treatments in Large Observational Studies,"ENAR Spring Meeting, Philadelphia, PA",NA,NA,2019,1,NA,NA,NA,NA,NA
-presentations,TRUE,How Far is Too Far? Generalization of a Regression Discontinuity Design Away from the Cutoff,"AEFP Annual Conference, Kansas City, MO",NA,NA,2019,1,NA,NA,NA,NA,NA
-presentations,TRUE,How Far is Too Far? Generalization of a Regression Discontinuity Design Away from the Cutoff,"SREE Spring Conference, Washington, DC",NA,NA,2019,1,NA,NA,NA,NA,NA
-presentations,TRUE,Better Together? Social Networks in Truancy and the Targeting of Treatment,"APPAM Fall Research Conference, Washington, DC",NA,NA,2018,1,NA,NA,NA,NA,NA
-presentations,TRUE,Better Together? Social Networks in Truancy and the Targeting of Treatment,"AEFP Annual Conference, Portland, OR",NA,NA,2018,1,NA,NA,NA,NA,NA
-presentations,TRUE,Building a representative matched sample with treatment doses,"Empirics and Methods in Economics Conference, Chicago, IL",NA,NA,2017,1,NA,NA,NA,NA,NA
-presentations,TRUE,Representative Template Matching,"Economics of Education Seminar, Columbia University, New York, NY",NA,NA,2016,1,NA,NA,NA,NA,NA
-presentations,TRUE,Cognitive Abilities and Preschool Education in Chile,"Second Meeting of the Network of Chilean Researchers in Education, Bristol, UK",NA,NA,2014,1,NA,NA,NA,NA,NA
+teaching_experience,TRUE,Teaching Assistant,"The Ohio State University, Columbus, OH",,2014,2016,Principles of Microeconomics (Fall 2014),Principles of Macroeconomics (Fall 2016),NA,NA,NA,NA
+publications,TRUE,Unequal effects of the COVID-19 pandemic on scientists,"*Comment, Nature Human Behaviour*",NA,NA,2020,"w/ Kyle R. Myers, Yian Yin, Nina Cohodes, Jerry G. Thursby, Marie C. Thursby, Peter Schiffer, Joseph T. Walsh, Karim R. Lakhani & Dashun Wang",NA,NA,NA,NA,NA
+workingpapers,TRUE,"Science, Interrupted: Funding Delays Reduce Research Activity but Having More Grants Helps",Submitted,NA,NA,2021,1,NA,NA,NA,NA,NA
+workingpapers,TRUE,The Effect of Funding Delays on the Research Workforce: Evidence From Tax Records,Ongoing,NA,NA,2021,"w/ Stephanie Cheng, Bitsy Perlman, Joseph Staudt",NA,NA,NA,NA,NA
+workingpapers,TRUE,Spillovers from Mission-Driven Science: California and Stem Cell Research,Ongoing,NA,NA,2021,w/ Joseph Staudt,NA,NA,NA,NA,NA
+workingpapers,TRUE,The Effect of Temporary Colocation on Knowledge Flows,Ongoing,NA,NA,2021,w/ Joseph Staudt,NA,NA,NA,NA,NA
+workingpapers,TRUE,Measuring Innovation in Science,White Paper,NA,NA,2021,I provide an overview of recent efforts to measure outcomes such as scientific novelty and impact using citation networks and text analysis.,NA,NA,NA,NA,NA
+presentations,TRUE,"14th Workshop on the Organisation, Economics and Policy of Scientific Research at the Max Planck Institute for Innovation and Competition","Economics and COVID-19 Seminar. *Universidad Adolfo Ibanez*. Santiago, Chile",NA,NA,2020,1,NA,NA,NA,NA,NA
+presentations,TRUE,"2nd Research on Innovation, Science and Entrepreneurship Workshop at the Max Planck Institute for Innovation and Competition","3rd Workshop of Applied Modelling for COVID-19 in Chile. *Mesa Social COVID-19*. Santiago, Chile",NA,NA,2019,1,NA,NA,NA,NA,NA
+presentations,TRUE,"MTEI Research Seminar, EPFL","Atlantic Causal Inference Conference. *Suspended due to COVID-19*. Austin, TX",NA,NA,2019,1,NA,NA,NA,NA,NA
+presentations,TRUE,"Department of Economics, SUNY Albany","ENAR Spring Meeting, Philadelphia, PA",NA,NA,2018,1,NA,NA,NA,NA,NA
+presentations,TRUE,Census ARiS Brown Bag 2018,"AEFP Annual Conference, Kansas City, MO",NA,NA,2018,1,NA,NA,NA,NA,NA
+presentations,TRUE,13th Meeting of the Urban Economics Association,"SREE Spring Conference, Washington, DC",NA,NA,2018,1,NA,NA,NA,NA,NA
+presentations,TRUE,Value of Medical Research Network Meeting,"APPAM Fall Research Conference, Washington, DC",NA,NA,2018,1,NA,NA,NA,NA,NA
+presentations,TRUE,Society of Labor Economists (SOLE) Annual Meeting (poster),"AEFP Annual Conference, Portland, OR",NA,NA,2018,1,NA,NA,NA,NA,NA
+presentations,TRUE,Midwest Economics Association Conference,"Empirics and Methods in Economics Conference, Chicago, IL",NA,NA,2018,1,NA,NA,NA,NA,NA
 presentations,TRUE,Impact of Attending Preschool in Chile: Short and Medium-Term Outcomes,"MIDE UC Conference, Santiago, Chile",NA,NA,2013,1,NA,NA,NA,NA,NA
 awards,TRUE,"PhD Fellow, NBER-IFS Value of Medical Research Network",NA,NA,NA,2017,1,NA,NA,NA,NA,NA
 awards,TRUE,University Fellowship,Graduate School at The Ohio State University,NA,2013,2014,1,NA,NA,NA,NA,NA
