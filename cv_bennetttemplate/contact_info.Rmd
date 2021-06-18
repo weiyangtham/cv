@@ -1,0 +1,17 @@
+
+```{block type='col-6 grid-item', echo=TRUE}
+<span style="font-size:larger;">**Contact information**<span>
+
+<div class="info-box">
+
+| Center | Left |
+|:------:|:-----|
+| <i class="fa fa-paper-plane"></i>| wtham@hbs.edu |
+| <i class="fa fa-link"></i>| [wytham.rbind.io](https://wytham.rbind.io) |
+| <i class="fa fa-twitter"></i>| [wytham88](http://twitter.com/wytham88/) |
+| <i class="fa fa-github"></i>| [github.com/wytham](http://www.github.com/wytham) |
+| |  |
+
+</div>
+```
+            

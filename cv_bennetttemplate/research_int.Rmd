@@ -1,0 +1,10 @@
+```{block type="col-6 grid-item", echo=TRUE}
+<span style="font-size:larger;">
+**Summary**
+
+Assistant Professor in the Statistics Group at McCombs School of Business, the University of Texas at Austin. 
+
+Research interests in **statistical methodologies for causal inference**, and how new techniques can be applied to the fields of **economics of education**, **health**, and **poverty**.
+<span>
+
+```
